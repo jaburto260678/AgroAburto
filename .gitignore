@@ -1,0 +1,21 @@
+
+# Archivos temporales de Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos generados por .NET
+bin/
+obj/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Configuración local
+appsettings.Development.json
