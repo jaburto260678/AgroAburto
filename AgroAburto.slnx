@@ -1,1 +1,6 @@
-<Solution />
+<Solution>
+  <Project Path="AgroAburto.Datos/AgroAburto.Datos.csproj" />
+  <Project Path="AgroAburto.Entidades/AgroAburto.Entidades.csproj" />
+  <Project Path="AgroAburto.Negocio/AgroAburto.Negocio.csproj" />
+  <Project Path="AgroAburto.Presentacion/AgroAburto.Presentacion.csproj" />
+</Solution>
