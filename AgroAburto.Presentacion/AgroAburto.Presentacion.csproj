@@ -9,6 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\AgroAburto.Entidades\AgroAburto.Entidades.csproj" />
     <ProjectReference Include="..\AgroAburto.Negocio\AgroAburto.Negocio.csproj" />
   </ItemGroup>
 
